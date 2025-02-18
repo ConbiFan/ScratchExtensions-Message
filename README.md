@@ -20,14 +20,4 @@ The "Message" Scratch extension is a JavaScript-based extension for Scratch that
 
 
 
-To use the Message extension, add it to your Scratch project and call the `window.alert("Hello")` function to display an alert.
-
-
-
-## Example
-
-
-
-```javascript
-
-window.alert("Hello Scratch!");
+To use the Message extension, add it to your Scratch project and call the `window.alert("Hello, World!")` function to display an alert.
