@@ -5,3 +5,7 @@ The "Message" Scratch extension is a JavaScript-based extension for Scratch that
 # Features
 
 Easily display alert messages in Scratch projects.
+
+# URL
+
+https://conbifan.github.io/scratchextensions-message.github.io/index.js
